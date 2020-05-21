@@ -5,18 +5,9 @@
 #  Program #:         Program 11
 #
 #  File Name:         Program11.py
-#
-#  Course:            COSC 1336 Programming Fundamentals I 
-#
-#  Due Date:          12-3-19
-#
-#  Instructor:        Fred Kumi 
-#
-#  Chapters:           5-9
-#
-#  Description:
-#     This program contains a list of the World Series’ winning teams
-#     from 1903 through 2019 and lets the user select a year
+# 
+#  Description:       This program contains a list of the World Series’ winning teams
+#                     from 1903 through 2019 and lets the user select a year
 #
 #***************************************************************
 
@@ -149,7 +140,6 @@ def showResults(year_dict,teams):
 #**************************************************************
 def developerInfo():
     print('Name:     Renee White')
-    print('Course:   Programming Fundamentals I')
     print('Program:  Eleven')
     print()
     # End of the developerInfo function
